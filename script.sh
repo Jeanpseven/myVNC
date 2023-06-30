@@ -29,7 +29,7 @@ parar_vnc() {
 # Loop principal do script
 while true; do
   echo "
-  === Script do Servidor VNC ===
+  ==== Script do Servidor VNC ====
 
   Opções:
   1. Iniciar o servidor VNC para acompanhamento(listener)
