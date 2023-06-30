@@ -32,7 +32,7 @@ while true; do
   === Script do Servidor VNC ===
 
   Opções:
-  1. Iniciar o servidor VNC para acompanhamento
+  1. Iniciar o servidor VNC para acompanhamento(listener)
   2. Abrir um servidor VNC para ser acompanhado
   3. Parar o servidor VNC
   4. Sair
